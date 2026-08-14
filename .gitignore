@@ -1,3 +1,7 @@
 venv/
 .venv/
 env/
+
+other/__pycache__
+other/test_log.txt
+*.db
